@@ -13,3 +13,21 @@
  *= require_tree .
  *= require_self
  */
+
+
+ .user {
+  background-color: gainsboro ;
+  margin: 5px;
+  padding: 5px ;
+ }
+
+ .coach {
+  background-color:beige;
+  margin: 5px;
+  padding: 5px;
+ }
+
+.linkto{
+  text-decoration: none;
+  color:black;
+}
